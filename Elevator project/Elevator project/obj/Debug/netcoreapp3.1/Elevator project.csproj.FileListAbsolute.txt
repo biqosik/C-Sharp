@@ -1,0 +1,19 @@
+C:\Users\flise\Desktop\Elevator project\Elevator project\bin\Debug\netcoreapp3.1\Elevator project.exe
+C:\Users\flise\Desktop\Elevator project\Elevator project\bin\Debug\netcoreapp3.1\Elevator project.deps.json
+C:\Users\flise\Desktop\Elevator project\Elevator project\bin\Debug\netcoreapp3.1\Elevator project.runtimeconfig.json
+C:\Users\flise\Desktop\Elevator project\Elevator project\bin\Debug\netcoreapp3.1\Elevator project.runtimeconfig.dev.json
+C:\Users\flise\Desktop\Elevator project\Elevator project\bin\Debug\netcoreapp3.1\Elevator project.dll
+C:\Users\flise\Desktop\Elevator project\Elevator project\bin\Debug\netcoreapp3.1\Elevator project.pdb
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator project.csprojAssemblyReference.cache
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator_project.Elevator.resources
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator_project.Properties.Resources.resources
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator project.csproj.GenerateResource.cache
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator project.AssemblyInfoInputs.cache
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator project.AssemblyInfo.cs
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator project.csproj.CoreCompileInputs.cache
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator project.dll
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator project.pdb
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator project.genruntimeconfig.cache
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Interop.MSDASC.dll
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Interop.Accessibility.dll
+C:\Users\flise\Desktop\Elevator project\Elevator project\obj\Debug\netcoreapp3.1\Elevator project.csproj.ResolveComReference.cache
